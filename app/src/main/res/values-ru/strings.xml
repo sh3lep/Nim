@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nim</string>
+    <string name="computer_game_text">игра с компьютером</string>
+    <string name="first_heap_title">Первая куча:</string>
+    <string name="hotseat_game_text">игра с человеком</string>
+    <string name="rules_text">В трех кучах лежат 3, 5 и 7 предметов. Два игрока по очереди берут предметы из кучи, за ход можно взять любое кол-во предметов из одной кучи (но больше 0). Выигрывает игрок, который взял последний предмет.\n
+    Чтобы убрать предметы из кучи нажмите на фишку с нужным числом.</string>
+    <string name="second_heap_title">Вторая куча:</string>
+    <string name="third_heap_title">Третья куча:</string>
+    <string name="chip_easy">Легко</string>
+    <string name="chip_hard">Сложно</string>
+    <string name="computer_player">Компьютер</string>
+    <string name="first_player">Первый игрок</string>
+    <string name="second_player">Второй игрок</string>
+    <string name="to_main_menu">назад в меню</string>
+    <string name="win_dialog_repeat">Повторить?</string>
+    <string name="win_dialog_repeat_button">повторить</string>
+    <string name="you_lose">Вы проиграли!</string>
+    <string name="cancel">отмена</string>
+    <string name="enter_players_names">Введите имена игроков</string>
+    <string name="score_text">счет</string>
+    <string name="start">начать</string>
+    <string name="win">победил!</string>
+</resources>

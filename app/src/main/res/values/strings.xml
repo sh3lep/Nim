@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Nim</string>
+
+    <!-- Menu Fragment -->
+    <string name="hotseat_game_text">hotseat game</string>
+    <string name="computer_game_text">computer game</string>
+    <string name="item_rules" translatable="false">item_rules</string>
+    <string name="chip_hard">Hard</string>
+    <string name="chip_easy">Easy</string>
+    <string name="win_dialog_repeat">Repeat?</string>
+    <string name="first_player">First player</string>
+    <string name="computer_player">Computer player</string>
+    <string name="you_lose">You lose!</string>
+    <string name="second_player">Second player</string>
+    <string name="to_main_menu">back to menu</string>
+    <string name="win_dialog_repeat_button">repeat</string>
+
+    <!-- Rules Fragment -->
+    <string name="rules_text">On each turn, a player must remove at least one object from the heap of 3, 5 or 7, and may
+        remove any number of objects provided they all come from the same heap.
+        Еhe goal of the game is to take the last object.</string>
+
+    <!-- Game Fragment -->
+    <string name="first_heap_title">First heap:</string>
+    <string name="second_heap_title">Second heap:</string>
+    <string name="third_heap_title">Third heap:</string>
+
+    <string name="enter_players_names">Enter players names</string>
+    <string name="cancel">cancel</string>
+    <string name="start">start</string>
+    <string name="score_text">score</string>
+    <string name="win">win!</string>
+
+</resources>
